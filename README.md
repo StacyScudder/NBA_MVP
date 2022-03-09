@@ -4,7 +4,7 @@ Project using machine learning to predict the top 5 players to receive MVP votes
 <img src = "img/basketball-4264543_640.png" width = "300" alt = "basketball">
 
 **About**  
-My grandson asked me about setting up a webpage or app with a dashboard for NCAA or NBA stats. I wanted to be able to show him how to scrape the stats and use it to make predictions before moving on to the dashboard, but I needed more practice myself before teaching him. 
+My grandson asked me about setting up a webpage or app with a dashboard for NCAA or NBA stats. I wanted to be able to show him how to scrape the stats and use it to make predictions before moving on to the dashboard, but I needed more practice myself before teaching him. I [watched a 3 part video series by Vik Parchuri](https://youtu.be/JGQGd-oa0l4) to work through the basics and will take the basic steps further later.
 
 **Data**  
 For this project, I scraped data from [basketball-reference](https://www.basketball-reference.com/) since it had a table with MVP data that was easier to scrape. Eventually, I'll use data drectly from the NBA website and other the relevant sites for other sports.
